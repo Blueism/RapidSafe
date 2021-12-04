@@ -10,8 +10,8 @@ RapidSafe is an anti-cheat for your roblox games!
     <a href="https://github.com/Blueism/RapidSafe/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/Blueism/RapidSafe"/>
     </a>
-    <a href="https://github.com/Sceleratis/Adonis/releases">
-        <img src="https://img.shields.io/github/v/release/Sceleratis/Adonis?label=version"/>
+    <a href="https://github.com/Blueism/RapidSafe/releases">
+        <img src="https://img.shields.io/github/v/release/RapidSafe/RapidSafe?label=version"/>
     </a>
 </div>
 <hr/>
