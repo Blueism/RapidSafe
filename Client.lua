@@ -21,35 +21,19 @@ local Humanoid = Character:WaitForChild("Humanoid", 5) -- Waits
 
 Humanoid.Changed:Connect(function() -- Do not touch anything below or it will not work
 	if Humanoid.WalkSpeed ~= 16 then
-		Player:Kick("You have been banned - REASON: Exploits")
-		print("!!! STUDS ACTIVATED. USER EXPLOIT DETECTED. BACK-UP NOTICE SYSTEMS ('ExploitScan') !!!")
-		print("User has exploited, BANNED. You are SAFE.")
-		print("USER EXPLOIT ('ExploitScan')")
-		else print("!!!! YOU ARE not SAFE PLEASE SHUTDOWN YOUR GAME FOR YOUR SAFETY !!! ('ExploitScan')")
+		game:GetService("ReplicatedStorage").RemoteEvent:FireServer()
 	end
 
 	if Humanoid.JumpPower ~= 50 then
-		Player:Kick("You have been banned - REASON: Exploits")
-		print("!!! STUDS ACTIVATED. USER EXPLOIT DETECTED. BACK-UP NOTICE SYSTEMS ('ExploitScan') !!!")
-		print("User has exploited, BANNED. You are SAFE.")
-		print("USER EXPLOIT ('ExploitScan')")
-		else print("!!!! YOU ARE not SAFE PLEASE SHUTDOWN YOUR GAME FOR YOUR SAFETY !!! ('ExploitScan')")
+		game:GetService("ReplicatedStorage").RemoteEvent:FireServer()
 	end
 	
 	if Humanoid.MaxHealth ~= 100 then
-		Player:Kick("You have been banned - REASON: Exploits")
-		print("!!! STUDS ACTIVATED. USER EXPLOIT DETECTED. BACK-UP NOTICE SYSTEMS ('ExploitScan') !!!")
-		print("User has exploited, BANNED. You are SAFE.")
-		print("USER EXPLOIT ('ExploitScan')")
-		else print("!!!! YOU ARE not SAFE PLEASE SHUTDOWN YOUR GAME FOR YOUR SAFETY !!! ('ExploitScan')")
+		game:GetService("ReplicatedStorage").RemoteEvent:FireServer()
 	end
 	
 	if Humanoid.HealthDisplayDistance ~= 100 then
-		Player:Kick("You have been banned - REASON: Exploits")
-		print("!!! STUDS ACTIVATED. USER EXPLOIT DETECTED. BACK-UP NOTICE SYSTEMS ('ExploitScan') !!!")
-		print("User has exploited, BANNED. You are SAFE.")
-		print("USER EXPLOIT ('ExploitScan')")
-		else print("!!!! YOU ARE not SAFE PLEASE SHUTDOWN YOUR GAME FOR YOUR SAFETY !!! ('ExploitScan')")
+		game:GetService("ReplicatedStorage").RemoteEvent:FireServer()
 	end
 end)
 
