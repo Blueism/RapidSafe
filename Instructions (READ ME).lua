@@ -1,0 +1,3 @@
+-- 1. Place this script in StarterPlayerScripts for it to work.
+-- 2. Go into your game and open Developer Console - Navigation: Menu < Settings < Developer Console.
+-- 3. Once you have done this it should say STUDS is activated if it does your system is ready to go.
