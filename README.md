@@ -43,6 +43,16 @@ RapidSafe is an anti-cheat software that ensures the safety of your game and ens
 * Documentation: https://github.com/Blueism/RapidSafe/blob/HumanoidStop/Instructions%20(READ%20ME).lua
 * Discord Server: https://discord.gg/rdkgGc4
 
+## Versions
+| Version | Roblox Supported        |
+| ------- | ------------------ |
+| 1.0.  | ✅ |
+| 2.0.   | ❌                |
+| 3.0.   | ❌ |
+| 4.0   | ❌                |
+
+*Those marked with the X have not been released, and will release on Roblox soon.*
+
 ### License
 
 RapidSafe is under the terms of the MIT license. Read more details about the license [here](https://github.com/Blueism/RapidSafe/blob/master/LICENSE).
