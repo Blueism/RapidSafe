@@ -1,4 +1,4 @@
-# **RapidSafe is slowly coming back up, we are finishing documentation.**
+# **RapidSafe is slowly coming back up, we are finishing documentation!**
 <div align="center">
     <img src="https://media.discordapp.net/attachments/914444713929605153/916832378041827400/explorer-icon-113.png"/>
 <div>&nbsp;</div>
