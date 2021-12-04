@@ -17,6 +17,8 @@ RapidSafe is an anti-cheat for your roblox games!
 <hr/>
 RapidSafe is an anti-cheat software that ensures the safety of your game and ensures your game will always have fair standards!
 
+**NOTE: SCREENGUI IS NOT DONE**
+
 ## Installation
 
 :wave: **Welcome to RapidSafe, New? Have a look at our documentation found [here](https://github.com/Blueism/RapidSafe/blob/HumanoidStop/Instructions%20(READ%20ME).lua) so you can learn how to add RapidSafe to your game!**
