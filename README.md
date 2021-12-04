@@ -23,7 +23,7 @@ RapidSafe is an anti-cheat software that ensures the safety of your game and ens
 <br>If you get stuck, feel free to ask for assistance in our **COMING SOON**.
 
 ### Method 1: Official Roblox Model
-* [Take a copy](https://www.roblox.com/library/8174154227/RapidSafe-V1) of the RapidSafe file model from the Roblox library
+* [Take a copy](https://www.roblox.com/library/8174225946/RapidSafe) of the RapidSafe file model from the Roblox library
 
 * Insert the model into Studio using the Toolbox into `Workspace`
 
@@ -35,7 +35,7 @@ RapidSafe is an anti-cheat software that ensures the safety of your game and ens
 * Import the model file into Studio
 
 ## Links
-* Official RapidSafe Model: https://www.roblox.com/library/8174154227/RapidSafe-V1 
+* Official RapidSafe Model: https://www.roblox.com/library/8174225946/RapidSafe
 * Documentation: https://github.com/Blueism/RapidSafe/blob/HumanoidStop/Instructions%20(READ%20ME).lua
 * Discord Server: **COMING SOON**
 
