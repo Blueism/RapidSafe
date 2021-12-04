@@ -1,6 +1,6 @@
 # **RapidSafe has been taken offline, due to the release being rushed. For more information look at [Blueism's Twitter](https://twitter.com/Blu3xism)**
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/914444713929605153/916813110331969587/explorer-icon-62.png"/>
+    <img src="https://cdn.discordapp.com/attachments/914444713929605153/916824215666192404/explorer-icon-76.png"/>
 <div>&nbsp;</div>
 </a>
 </div>
