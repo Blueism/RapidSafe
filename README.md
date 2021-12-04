@@ -55,4 +55,4 @@ RapidSafe is an anti-cheat software that ensures the safety of your game and ens
 
 RapidSafe is under the terms of the MIT license. Read more details about the license [here](https://github.com/Blueism/RapidSafe/blob/master/LICENSE).
 
-# Blueism Labs, INC.
+# Blueism Labs, INC
