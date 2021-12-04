@@ -1,4 +1,4 @@
-# **RapidSafe is currently being updated, please note that some things may be unavaliable and we will be right back. We apologize.**
+# **RapidSafe is currently being updated, please note that some things may be unavailable and we will be right back. We apologize.**
 <div align="center">
     <img src="https://media.discordapp.net/attachments/914444713929605153/916813110331969587/explorer-icon-62.png"/>
 <div>&nbsp;</div>
