@@ -1,12 +1,3 @@
-# **On this day, we would like to remind you:**
-
-<div align="center">
-    <img src="https://cdn.discordapp.com/attachments/914444713929605153/917082041940582400/FF2v5OAWQA43Yra.jpg"/>
-<div>&nbsp;</div>
- </a>
-</div>
-<hr/>
-
 # RapidSafe
 RapidSafe is an anti-cheat for your roblox games!
 
