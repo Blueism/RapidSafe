@@ -1,7 +1,7 @@
-# **RapidSafe Version 1.1 releases on December 5th. Scroll down for more information.**
+# **RapidSafe Version 1.1 has pre-released, fully releases 12PM EST**
 
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/914444713929605153/916873925961588846/explorer-icon-71.png"/>
+    <img src="https://media.discordapp.net/attachments/914444713929605153/916908959779143760/explorer-icon-22.png"/>
 <div>&nbsp;</div>
  </a>
 </div>
@@ -26,29 +26,44 @@ RapidSafe is an anti-cheat for your roblox games!
 <hr/>
 RapidSafe is an anti-cheat software that ensures the safety of your game and ensures your game will always have fair standards!
 
-## Version 1.1, your security is key
+# Version 1.1
 
-Your security is key, this is why on December 5th as we continue to improve our security systems we would like to introduce you to RapidSafe V.1.1.
-Version 1.1 will have more features and be a lot more customizeable to the user. With better overall security systems that make it hard for exploiters to cheat in your game.
-What are some stuff V.1.1 include?
+:exclamation: **Pre-Version**
 
-* Webhooks
+### Method 1: Official Roblox Model
+* [Take a copy](https://www.roblox.com/library/8178647648/RapidSafe-Version) of the RapidSafe 1.1 file model from the Roblox library
 
-* Banning on Exploit
+* Insert the model into Studio using the Toolbox into `Workspace`
 
-* Better Client
+* After doing this have a look at our documentation that can be found [here](https://github.com/Blueism/RapidSafe/wiki/1.1-Setup) for further information regarding V.1.1
 
-* Better Server
- 
-* Better protection
+### Method 2: GH Releases
 
-*More information will on our [documentation](https://github.com/Blueism/RapidSafe/wiki) in a few hours!*
+* Download the `rbxm` or file snapshot from the [latest release](https://github.com/Blueism/RapidSafe/releases/tag/roblox)
+* Import the model file into Studio
+
+## Links
+* Official RapidSafe 1.1 Model: https://www.roblox.com/library/8178647648/RapidSafe-Version
+* Documentation: https://github.com/Blueism/RapidSafe/wiki/Version-1.1-Documentation
+* Discord Server: **COMING SOON**
+
+## Versions
+| Version | Roblox Supported        |
+| ------- | ------------------ |
+| 1.0.  | ✅ |
+| 1.1    | ✅ |               
+| 2.0.   | ❌                |
+| 3.0.   | ❌ |
+| 4.0   | ❌                |
+
+*Those marked with the X have not been released, and will release on Roblox soon.*
+
 
 # Version 1.0 
 
 ## Installation
 
-:wave: **Welcome to RapidSafe, New? Have a look at our documentation found [here](https://github.com/Blueism/RapidSafe/wiki/What-can-it-do%3F) so you can learn how to add RapidSafe to your game!**
+:warning: **This is an old version! This version is no longer supported view, our latest version.**
 <br>If you get stuck, feel free to ask for assistance in our **COMING SOON**.
 
 ### Method 1: Official Roblox Model
