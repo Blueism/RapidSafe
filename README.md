@@ -32,7 +32,7 @@ RapidSafe is an anti-cheat software that ensures the safety of your game and ens
 
 ### Method 2: GH Releases
 
-* Download the `rbxm` or file snapshot from the [latest release](https://github.com/Blueism/RapidSafe/releases/tag/roblox)
+* Download the `rbxm` or file snapshot from the [latest release](https://github.com/Blueism/RapidSafe/releases/tag/V.1.1)
 * Import the model file into Studio
 
 ## Links
