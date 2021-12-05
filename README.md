@@ -1,4 +1,4 @@
-# **RapidSafe Version 1.1 has pre-released, fully releases 12PM EST**
+# **RapidSafe Version 1.1 has released!
 
 <div align="center">
     <img src="https://media.discordapp.net/attachments/914444713929605153/916908959779143760/explorer-icon-22.png"/>
@@ -28,7 +28,7 @@ RapidSafe is an anti-cheat software that ensures the safety of your game and ens
 
 # Version 1.1
 
-:exclamation: **Pre-Version**
+✔️Newest Version!
 
 ### Method 1: Official Roblox Model
 * [Take a copy](https://www.roblox.com/library/8178647648/RapidSafe-Version) of the RapidSafe 1.1 file model from the Roblox library
