@@ -17,7 +17,7 @@ to ensure the safety of others as well.
 | 3.0.   | ❌ |
 | 4.0   | ❌                |
 
-⚠️**1.0 is out of date, for more information check out our [documentation]()**
+⚠️**1.0 is out of date, for more information check out our [documentation](https://github.com/Blueism/RapidSafe/wiki#%EF%B8%8F-version-10-is-out-of-date)**
 
 ## Reporting a Vulnerability
 
