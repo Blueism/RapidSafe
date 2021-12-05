@@ -28,6 +28,8 @@ RapidSafe is an anti-cheat software that ensures the safety of your game and ens
 
 # Version 1.1
 
+## Installation
+
 ✔️Newest Version!
 
 ### Method 1: Official Roblox Model
