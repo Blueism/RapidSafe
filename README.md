@@ -1,12 +1,3 @@
-# **RapidSafe is back! This message will disappear soon. Scroll down for information regarding RapidSafe!**
-<div align="center">
-    <img src="https://media.discordapp.net/attachments/914444713929605153/916838915464372274/explorer-icon-6.png"/>
-<div>&nbsp;</div>
-</a>
-</div>
-<hr/>
-
-
 # RapidSafe
 RapidSafe is an anti-cheat for your roblox games!
 
