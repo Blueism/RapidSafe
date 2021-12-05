@@ -1,3 +1,13 @@
+# **We have updated our [Security Policy](https://github.com/Blueism/RapidSafe/blob/main/SECURITY.md)!
+
+<div align="center">
+    <img src="https://media.discordapp.net/attachments/914444713929605153/917098737560608778/explorer-icon-42.png"/>
+<div>&nbsp;</div>
+    <img src="https://img.shields.io/github/release/Blueism/RapidSafe?label=version"/>
+    </a>
+</div>
+<hr/>
+
 # RapidSafe
 RapidSafe is an anti-cheat for your roblox games!
 
