@@ -1,3 +1,12 @@
+# **RapidSafe Version 1.1 releases on December 5th. Scroll down for more information.**
+
+<div align="center">
+    <img src="https://media.discordapp.net/attachments/914444713929605153/916873925961588846/explorer-icon-71.png"/>
+<div>&nbsp;</div>
+ </a>
+</div>
+<hr/>
+
 # RapidSafe
 RapidSafe is an anti-cheat for your roblox games!
 
@@ -17,7 +26,25 @@ RapidSafe is an anti-cheat for your roblox games!
 <hr/>
 RapidSafe is an anti-cheat software that ensures the safety of your game and ensures your game will always have fair standards!
 
-**SCREENGUI IS NOT DONE**
+## Version 1.1, your security is key
+
+Your security is key, this is why on December 5th as we continue to improve our security systems we would like to introduce you to RapidSafe V.1.1.
+Version 1.1 will have more features and be a lot more customizeable to the user. With better overall security systems that make it hard for exploiters to cheat in your game.
+What are some stuff V.1.1 include?
+
+* Webhooks
+
+* Banning on Exploit
+
+* Better Client
+
+* Better Server
+ 
+* Better protection
+
+*More information will on our [documentation](https://github.com/Blueism/RapidSafe/wiki) in a few hours!*
+
+# Version 1.0 
 
 ## Installation
 
@@ -45,10 +72,12 @@ RapidSafe is an anti-cheat software that ensures the safety of your game and ens
 | Version | Roblox Supported        |
 | ------- | ------------------ |
 | 1.0.  | ✅ |
+| 1.1    | :warning: |               
 | 2.0.   | ❌                |
 | 3.0.   | ❌ |
 | 4.0   | ❌                |
 
+For more information on Version 1.1 please click [here](https://github.com/Blueism/RapidSafe/wiki)!
 *Those marked with the X have not been released, and will release on Roblox soon.*
 
 ### License
