@@ -29,7 +29,7 @@ RapidSafe is an anti-cheat software that ensures the safety of your game and ens
 
 * Insert the model into Studio using the Toolbox into `Workspace`
 
-* After doing this have a look at our documentation that can be found [here]https://github.com/Blueism/RapidSafe.wiki.git) for further information
+* After doing this have a look at our documentation that can be found [here](https://github.com/Blueism/RapidSafe.wiki.git) for further information
 
 ### Method 2: GH Releases
 
