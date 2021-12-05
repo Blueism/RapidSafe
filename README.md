@@ -1,7 +1,7 @@
-# **RapidSafe Version 1.1 has released!
+# **RapidSafe Version 1.1 has released!**
 
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/914444713929605153/916908959779143760/explorer-icon-22.png"/>
+    <img src="https://media.discordapp.net/attachments/914444713929605153/916891423809347644/explorer-icon-68.png"/>
 <div>&nbsp;</div>
  </a>
 </div>
