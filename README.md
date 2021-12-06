@@ -1,12 +1,3 @@
-# **RapidSafe Version 1.1 releases on December 5th. Scroll down for more information.**
-
-<div align="center">
-    <img src="https://media.discordapp.net/attachments/914444713929605153/916873925961588846/explorer-icon-71.png"/>
-<div>&nbsp;</div>
- </a>
-</div>
-<hr/>
-
 # RapidSafe
 RapidSafe is an anti-cheat for your roblox games!
 
