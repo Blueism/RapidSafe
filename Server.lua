@@ -1,6 +1,0 @@
-game:GetService("ReplicatedStorage").RemoteEvent.OnServerEvent:Connect(function(Player)
-	Player:Kick()
-	print("!!! STUDS ACTIVATED. USER EXPLOIT DETECTED. BACK-UP NOTICE SYSTEMS ('ExploitScan') !!!")
-	print("User has exploited, BANNED. You are SAFE.")
-	print("USER EXPLOIT ('ExploitScan')")
-end)
